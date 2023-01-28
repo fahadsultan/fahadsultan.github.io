@@ -1,5 +1,10 @@
 <html>
 <head>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
 <!-- <link href="jumbotron-narrow.css" rel="stylesheet"> -->
 <!-- <link href="carousel.css" rel="stylesheet"> -->
 <!-- <link href="dist/css/custom.css" rel="stylesheet"> -->
@@ -12,14 +17,19 @@
 <!-- <script src="assets/js/ie-emulation-modes-warning.js"></script> -->
 
 <style>
+
+@font-face {
+    font-family: Giza;
+    src:url("Giza FiveFive Regular.otf");
+}
+
 body {
-/*    font-family: "Avenir Next", "Avenir", "Helvetica Neue", "Gill Sans", "Gill Sans MT", "Helvetica", "sans-serif";*/
-    font-family:  "Helvetica Neue", "Gill Sans", "Gill Sans MT", "Helvetica", "sans-serif";
-/*    font-family: Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif; */
+  font-family:  "Open Sans", "Alfa Slab One", "Giza", "Helvetica", "sans-serif";
     padding-left: 15%;
     padding-right: 15%;
-    background: '#F3F3F3';/*F3F3F3*/
-    text: '#202A44';
+/*    background: '#F3F3F3';F3F3F3*/
+    color:#0B0B45;
+    font-size: 18;
 }
 li{
   margin-bottom: 0.5cm;
@@ -27,6 +37,35 @@ li{
 
 * {
   box-sizing: border-box;
+}
+
+#header a:link, a:visited{
+  color:white;
+}
+
+#header a:link { color: white; }
+#header a:visited { color: white; }
+#header a:hover { color: white; }
+#header a:active { color: white; }
+
+a:link, a:visited{
+  color: #990101;
+}
+
+.row#header{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+  background-color: #990101;
+  color: white;
+  border-radius: 1% 1% 1% 1%; 
+}
+
+
+.row{
+    padding-left: 0%;
+    padding-right: 0%;
+/*  color: white;*/
 }
 
 /* Create two equal columns that floats next to each other */
@@ -42,22 +81,65 @@ li{
   clear: both;
 }
 
+h1 {
+   font-family: Giza;
+   font-size:35;
+/*   color:#202A44;"*/
+   color:#0B0B45;
+/*   color: #990101;*/
+   color: white;
+   margin-top:0%;
+}
+
+h2 {
+  font-size:25; 
+  text:#0B0B45;
+  font-family:Giza;
+}
+
 </style>
 <meta http-equiv="Content-Type" content="text/html"; charset="ISO-885901">
-<title>Syed Fahad Sultan</title>
+<title >Syed Fahad Sultan</title>
 </head>
 
 <body background="#F3F3F3">
-  <div class="row">
+  <div class="row" id="header">
     <div class="column" style="width:70%">   
-      <div style="font-size:35;font-weight:bolder;color:#202A44;">Syed Fahad Sultan ( سید فہد سلطان ) </div>
-        <br/>
-
-        <p>I am an Assistant Professor in Computer Science Department at <a href="https://www.furman.edu">Furman University</a>. </p>
+      <h1>Syed Fahad Sultan</h1>
+       <h1>سید فہد سلطان  </h1>
+              <p style="text-align:left; line-height: 150%; font-weight: bold;">
+              Email: fahad dot sultan at furman dot edu<br/>
+              Office: Riley Hall 200-D<br/>
+              Phone: 864-294-3755<br/>
+              GitHub: <a href="https://www.github.com/fahadsultan">fahadsultan</a><br>
+              Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a>
+              </p>
+    </div>
+    <div class="column" style="width:30%">
+      <table >
+        <tr><td><img border="0"  style="width:90%;border-radius: 2%;padding-bottom: 2%;" align="right" src="furman_pic.jpg" ></td></tr>
+        <!-- <tr>
+          <td>
+            <br/>
+              <p style="text-align:left; line-height: 150%;">
+              Email: fahad dot sultan at furman dot edu<br/>
+              Office: Riley Hall 200-D<br/>
+              Phone: 864-294-3755<br/>
+              GitHub: <a href="https://www.github.com/fahadsultan">fahadsultan</a><br>
+              Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a>
+              </p>
+            <br> 
+        </td>
+       </tr> -->
+      </table>
+    </div>
+  </div>
+   <div class="row">
+          <p>I am an Assistant Professor in the Computer Science Department at <a href="https://www.furman.edu">Furman University</a>. </p>
 
         <p>I obtained my PhD in June 2022 from <a href="http://www.stonybrook.edu/">Stony Brook University.</a> During my PhD, I worked in the <a href="https://sites.google.com/site/datascienceslab/">Data Science Lab</a> and the <a href="http://www.lcneuro.org/">Lab for Computational Neurodiagostics</a>, advised by <a href="http://www3.cs.stonybrook.edu/~skiena/">Dr. Steven Skiena</a> and <a href="https://www.lcneuro.org/mujicaparodi">Dr. Lilianne Mujica Parodi</a>.</p>
         <p>My research interests lie at the intersection of data science, machine learning, computational neuroscience and computational social sciences.</p>
-        <p>Download <a href="syedfahadsultan-cv.pdf">CV</a></p>
+        <!-- <p>Download <a href="syedfahadsultan-cv.pdf">CV</a></p> -->
 
         <h2>Teaching</h2>
         <ul>
@@ -77,26 +159,6 @@ li{
           Seminar in Computer Science - CSC475 (Fall 2023)
         </li>
         </ul>
-    </div>
-    <div class="column" style="width:30%">
-      <table >
-        <tr><td><img border="0"  style="width:100%;border-radius: 15px;" align="right" src="furman_pic.jpg" ></td></tr>
-        <tr>
-          <td>
-            <br/>
-              <p style="text-align:left; line-height: 150%;">
-              Email: fahad dot sultan at furman dot edu<br/>
-              Office: Riley Hall 200-D<br/>
-              Phone: 864-294-3755<br/>
-              GitHub: <a href="https://www.github.com/fahadsultan">fahadsultan</a><br>
-              Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a>
-              </p>
-            <br>
-        </td>
-       </tr>
-      </table>
-    </div>
-  </div>
   <!-- <table>
   <col width="60%">
   <col width="20%">
@@ -135,19 +197,10 @@ li{
 	</tr>
   </td>
     
-</tbody>
-</table>
-<!-- <div style="font-size:25; padding-top:25%;font-weight:bold"><font color="#202A44">Teaching</font></strong></div> -->
 
-<!--
-<li>
-  Data Structures and Algorithms - CSC122 (Spring 2024)
-</li>
-<li>
-  Data Structures and Algorithms - CSC122 (Spring 2024)
-</li> -->
-<!-- <br/> -->
-</ul><div style="font-size:25; font-weight:bold"><font color="#202A44">Publications</font></strong></div>
+
+<!-- <div style="font-size:25; font-family: Alfa Slab One;font-weight: lighter"><font color="#202A44">Publications</font></strong></div> -->
+<h2>Publications</h2>
 
 <ul>
 <li>
@@ -182,7 +235,8 @@ li{
   <b>Syed Fahad Sultan</b>, Hamza Humayun, Umar Nadeem, Zubair Bhatti, Sohaib Khan. <a href="http://dl.acm.org/citation.cfm?id=2737892&amp;dl=ACM&amp;coll=DL&amp;CFID=866275015&amp;CFTOKEN=33096949">Mobile Phone Price as Proxy for Socio-Economic Indicators</a>, <i>Seventh International Conference on Information and Communication Technologies and Development (ICTD '15) Singapore</i>
 </li>
 </ul>
-<div style="font-size:25; font-weight:bold"><font color="#202A44">Industry Experience</font></strong></div>
+<!-- <div style="font-size:25; font-weight:bold"><font color="#202A44">Industry Experience</font></strong></div> -->
+<h2>Industry Experience</h2>
 <ul>
  <li>
 <b><a href="https://neo4j.com/">Neo4j</a>, Artificial Intelligence/Machine Learning Intern</b><br/>
@@ -211,13 +265,16 @@ Lahore, Pakistan (Jun 2011 - May 2013)<br/>
   (FAST-NUCES), Lahore.</li>
 </ul>
  -->
-<div style="font-size:25; font-weight:bold"><font color="#202A44">Miscellaneous</font></strong></div>
+<!-- <div style="font-size:25; font-weight:bold"><font color="#202A44">Miscellaneous</font></strong></div> -->
+<h2>Miscellaneous</h2>
 <ul>
-<li> I went through a phase of intense fascination with data journalism and got to do the two data journalism stories for Dawn.com: <a href="http://www.dawn.com/news/1146800">[1]</a> and <a href="http://www.dawn.com/news/1163372">[2]</a>. 
+<li> I dabbled in data journalism and got to do the two data journalism stories for Dawn.com: <a href="http://www.dawn.com/news/1146800">[1]</a> and <a href="http://www.dawn.com/news/1163372">[2]</a>. 
 <li>I also helped organize and gave talks at the <a href="http://karachi.dbootcamp.org/">Karachi Data Bootcamp</a> arranged by Knight Foundation and ICFJ and <a href="http://codeforpakistan.org/programs/civic-hackathons/lahore-civic-hackathon/">Lahore Civic Hackathon</a> by Code for Pakistan.
 <li>Right out of college, I joined a mobile game development startup and helped make TapFish, <a href="http://www.cc.com/video-clips/5acu1n/the-daily-show-with-jon-stewart-tap-fish-dealer">here</a> is a fun (and brutal :)) video that Jon Stewart's Daily Show did on the game.
 </ul>
 <br><br>
+
+</div>
 
 
 <!-- 
