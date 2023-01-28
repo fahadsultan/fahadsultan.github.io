@@ -5,23 +5,21 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
-<!-- <link href="jumbotron-narrow.css" rel="stylesheet"> -->
-<!-- <link href="carousel.css" rel="stylesheet"> -->
-<!-- <link href="dist/css/custom.css" rel="stylesheet"> -->
-    <!-- <link href="dist/css/bootstrap.min.css" rel="stylesheet"> -->
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<!-- <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
-<meta content="text/html; charset=utf-8" http-equiv=Content-Type>
-<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-<!--[if lt IE 9]><script src="../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-<!-- <script src="assets/js/ie-emulation-modes-warning.js"></script> -->
+  <meta content="text/html; charset=utf-8" http-equiv=Content-Type>
 
 <style>
+
+@font-face {
+    font-family: Giza33;
+    src:url("Giza OneFive Regular.otf");
+}
+
 
 @font-face {
     font-family: Giza;
     src:url("Giza FiveFive Regular.otf");
 }
+
 
 body {
   font-family:  "Open Sans", "Alfa Slab One", "Giza", "Helvetica", "sans-serif";
@@ -32,10 +30,24 @@ body {
     font-size: 18;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1200px) {
   body {
     padding-left: 0%;
     padding-right: 0%;
+  }
+
+
+  .row#header{
+      padding-top: 0%;
+      padding-left: 0%;
+      padding-right: 0%;
+  }
+
+}
+
+@media only screen and (max-width: 800px) {
+  img {
+    visibility: hidden;
   }
 }
 
@@ -64,9 +76,23 @@ a:link, a:visited{
     padding-top: 2%;
     padding-left: 2%;
     padding-right: 2%;
-  background-color: #990101;
-  color: white;
-  border-radius: 1% 1% 1% 1%; 
+    background-color: #990101;
+    color: white;
+    border-radius: 1% 1% 1% 1%; 
+}
+
+img{
+/*  object-fit: contain;*/
+  max-width:100%;
+  max-height:100%;
+  width:27%;
+  height: auto;
+  border: 0%;
+  border-radius: 2%;
+  margin-bottom:2%;
+  float:right; 
+  display: block;
+  margin-left: auto;
 }
 
 
@@ -90,6 +116,7 @@ a:link, a:visited{
 }
 
 h1 {
+  font-weight: light;
    font-family: Giza;
    font-size:35;
 /*   color:#202A44;"*/
@@ -113,35 +140,26 @@ h2 {
 
 <body background="#F3F3F3">
   <div class="row" id="header">
-    <div class="column" style="width:70%">   
+    <div class="column" style="width:100%"> 
+
+              <img src="furman_pic.jpg" >  
       <h1><a href="#">Syed Fahad Sultan</a></h1>
        <h1>سید فہد سلطان  </h1>
               <p style="text-align:left; line-height: 150%; font-weight: bold;">
+
               Email: fahad dot sultan at furman dot edu<br/>
               Office: Riley Hall 200-D<br/>
               Phone: 864-294-3755<br/>
               GitHub: <a href="https://www.github.com/fahadsultan">fahadsultan</a><br>
               Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a>
               </p>
+
     </div>
-    <div class="column" style="width:30%">
+<!--     <div class="column" style="width:30%">
       <table >
-        <tr><td><img border="0"  style="width:90%;border-radius: 2%;padding-bottom: 2%;" align="right" src="furman_pic.jpg" ></td></tr>
-        <!-- <tr>
-          <td>
-            <br/>
-              <p style="text-align:left; line-height: 150%;">
-              Email: fahad dot sultan at furman dot edu<br/>
-              Office: Riley Hall 200-D<br/>
-              Phone: 864-294-3755<br/>
-              GitHub: <a href="https://www.github.com/fahadsultan">fahadsultan</a><br>
-              Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a>
-              </p>
-            <br> 
-        </td>
-       </tr> -->
+        <tr><td><img src="furman_pic.jpg" ></td></tr>
       </table>
-    </div>
+    </div> -->
   </div>
    <div class="row">
           <p>I am an Assistant Professor in the Computer Science Department at <a href="https://www.furman.edu">Furman University</a>. </p>
