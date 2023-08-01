@@ -9,11 +9,14 @@
 
     gtag('config', 'G-KQTKFY4QK1');
   </script>
+  
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@800&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
-  <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Alfa Slab One:wght@200&display=swap' rel='stylesheet'>
+
   <meta content="text/html; charset=utf-8" http-equiv=Content-Type>
 
 <style>
@@ -135,8 +138,8 @@ img{
 }
 
 h1 {
-  font-weight: light;
-   font-family: Giza;
+  font-weight: lighter;
+   font-family: "Alfa Slab One", cursive;
    font-size:35;
 /*   color:#202A44;"*/
 /*   color:#0B0B45;*/
@@ -147,8 +150,25 @@ h1 {
 
 h2 {
   font-size:25; 
+  font-weight: lighter;
 /*  color:#0B0B45;*/
-  font-family:Giza;
+  /* font-family:Giza; */
+  font-family: 'Alfa Slab One';
+  font-weight: lighter;
+}
+
+h3.menu{
+  font-family: 'Alfa Slab One';
+  font-size: 20;
+  font-weight: lighter;
+  color: #000;
+}
+
+h3{
+  font-family: 'Open Sans';
+  font-size: 20;
+  font-weight: bold;
+  color: #000;
 }
 
 
@@ -174,34 +194,52 @@ h2 {
 </head>
 
 <body background="#F3F3F3">
+
   <div class="row" id="header">
     <div class="column" style="width:100%"> 
 
-              <img src="furman_pic.jpg" >  
+      <img src="furman_pic.jpg" >  
       <h1><a href="#">Syed Fahad Sultan</a></h1>
-       <h1>سید فہد سلطان  </h1>
+      <!-- <h1><a href="#">SYED FAHAD SULTAN</a></h1> -->
+       <h1 style="font-weight:bold">سید فہد سلطان  </h1>
               <p style="text-align:left; line-height: 150%; font-weight: bold;">
 
               Email: fahad dot sultan at furman dot edu<br/>
               Office: Riley Hall 200-D<br/>
               Phone: 864-294-3755<br/>
               GitHub: <a href="https://www.github.com/fahadsultan">fahadsultan</a><br>
-              Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a>
+              <!-- Twitter: <a href="https://twitter.com/syedfahadsultan">@syedfahadsultan</a><br> -->
+              <a href="syedfahadsultan-cv.pdf">Curriculum Vitae</a>
               </p>
-
     </div>
+  </div>
+  <div class="row" style="padding: 0;margin: 0;">
+    <!-- <hr color="#FFFFFF"></hr> -->
+    <div class="column" style="width:20%;text-align:center"><h3 class="menu"><a href="#teaching">Teaching</a></h3></div>
+    <div class="column" style="width:20%;text-align:center"><h3 class="menu"><a href="#research">Research</a></h3></div>
+    <div class="column" style="width:20%;text-align:center"><h3 class="menu"><a href="#students">Students</a></h3></div>
+    <div class="column" style="width:20%;text-align:center"><h3 class="menu"><a href="#pubs">Publications</a></h3></div>
+    <div class="column" style="width:20%;text-align:center"><h3 class="menu"><a href="#misc">Misc.</a></h3></div>
+    <hr/>
+    <!-- <hr color="#990101"> -->
+    <!-- <hr color="#FFFFFF"> -->
   </div>
    <div class="row">
     <div class="column" style="width:100%"> 
-          <p>I am an Assistant Professor in the <a href="https://www.instagram.com/furmancompsci/">Computer Science Department</a> at <a href="https://www.furman.edu">Furman University</a>. </p>
-          
-        <p>I received my PhD in 2022 from <a href="http://www.cs.stonybrook.edu/">Stony Brook University.</a> During my PhD, I worked in the <a href="https://sites.google.com/site/datascienceslab/">Data Science Lab</a> and the <a href="http://www.lcneuro.org/">Lab for Computational Neurodiagostics</a>, advised by <a href="http://www3.cs.stonybrook.edu/~skiena/">Dr. Steven Skiena</a> and <a href="https://www.lcneuro.org/mujicaparodi">Dr. Lilianne Mujica Parodi</a>.</p>
-        <p>My research interests lie at the intersection of data science, machine learning, computational neuroscience and computational social sciences.</p>
-        <!-- <p>Download <a href="syedfahadsultan-cv.pdf">CV</a></p> -->
-      </div>
+          <p>I am an Assistant Professor in the <a href="https://www.instagram.com/furmancompsci/">Computer Science Department</a> at <a href="https://www.furman.edu">Furman University</a>. 
+            <p>I received my PhD in 2022 from <a href="http://www.cs.stonybrook.edu/">Stony Brook University</a> advised by <a href="http://www3.cs.stonybrook.edu/~skiena/">Dr. Steven Skiena</a> and <a href="https://www.lcneuro.org/mujicaparodi">Dr. Lilianne Mujica Parodi</a>. 
+            <p>My research interests lie at the intersection of data science, machine learning, computational neuroscience and computational social science. 
+        For a longer biography, please see my <a href="https://www.furman.edu/people/syed-fahad-sultan/">Furman faculty page</a>.</p>
+        
+    </div>
 	</div>
-  <h2 style="margin-block-start: 0.2em;">Teaching</h2>
 
+  <h2 id="teaching" style="margin-block-start: 0.2em;">Teaching</h2>
+  <ul>
+    <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/data-mining">Data Mining</a> (Fall 2023)</li>
+    <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/seminar-in-cs">Seminar in Computer Science</a> (Fall 2023, Spring 2024)</li>
+  </ul>
+  Past:
   <ul>
     <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/csc343">Artificial Intelligence</a> (Spring 2023)</li>
     <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/csc105">Introduction to Computer Science</a> (Spring 2023)</li>
@@ -209,53 +247,78 @@ h2 {
   </ul>
   Upcoming:
   <ul>
-    <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/data-mining">Data Mining</a> (Fall 2023)</li>
-    <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/seminar-in-cs">Seminar in Computer Science</a> (Fall 2023, Spring 2024)</li>
     <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/data-structs-algos/">Data Structures and Algorithms</a> (Spring 2024)</li>
     <li style="margin-bottom: 0.2em;"><a href="https://fahadsultan.com/ml-big-data/">Machine Learning with Big Data</a> (Fall 2024 / Spring 2025)</li>
   </ul>
+<h2 id="research" style="margin-top: 1em;">Research <a href="">^</a></h2>
+The following is a list of active research projects I am working on:
 
-<!-- <br/> -->
-<!-- <div style="font-size:25; font-family: Alfa Slab One;font-weight: lighter"><font color="#202A44">Publications</font></strong></div> -->
-<h2 style="margin-top: 1em;">Publications</h2>
+<h3>&nbsp;&nbsp;&nbsp;Visualizing Dynamic Networks</h3>
+<p style="padding-left: 1.5%;">I am currently working on extending Hierarchical Edge Bundling and Force-Directed edge bundling for dynamic graphs towards mechanistic interpretability of artificial neural networks as well as for improved diagnostics of time-varying biological functional connectivity networks.</p>
+
+<h3>&nbsp;&nbsp;&nbsp;Improving Participation and Success of Underrepresented Students in Computer Science</h3>
+<p style="padding-left: 1.5%;">I am currently working on better understanding and improving participation and success of underrepresented students in Computer Science by mining data from Integrated Post-Secondary Education System (IPEDS).</p>
+
+<h2 id="students">Students <a href="">^</a></h2>
 <ul>
-<li>
-  <b>Syed Fahad Sultan</b>, Chris Alvin, Rebecca Drucker. <a href="">The Shrinking Slice of Women and Black Students in a Growing Computer Science Pie: A Preliminary Spatiotemporal Analysis of Longitudinal Completions Data</a>, <i>The Journal of Computing Sciences in Colleges</i>, 2023, 39(5).
-</li>
-<li>
-  <b>Syed Fahad Sultan</b>, Steve Skiena, Lilianne Mujica-Parodi. <a href="https://assets.researchsquare.com/files/rs-1413254/v2_covered.pdf?c=1667833953">Quantifying Dysregulation of fMRI-Derived Control Circuits for Computational Psychiatry</a> <i> bioRxiv</i>, 2022.11. 10.21203
-</li>
-
-<li>
-  <b>Syed Fahad Sultan</b>. <a href="https://www.proquest.com/openview/e83c4d6d4e96c08b5b1eca5ff60b448a/1?pq-origsite=gscholar&cbl=18750&diss=y">Predictive Models and Representations for Neuroimaging and Genetic Data</a>. <i> Dissertation,  State University of New York at Stony Brook, 2022.</i>
-</li>
-
-
-<li>
-  <b>Syed Fahad Sultan</b>, Xingzhi Guo, Steven Skiena. <a href="https://dl.acm.org/doi/10.1145/3535508.3545507">Low-dimensional genotype embeddings for predictive models</a>. <i>Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics 2022.</i>
-</li>
-
-<li>
-  Botond Antal, Liam P McMahon, <b>Syed Fahad Sultan</b> et al. <a href="https://dl.acm.org/doi/10.1145/3535508.3545507">Type 2 diabetes mellitus accelerates brain aging and cognitive decline: Complementary findings from UK Biobank and meta-analyses</a>. <i>Elife (2022) 11: e73138.</i>
-</li>
-<li>
-  Lilianne Mujica-Parodi, Anar Amgalan, <b>Syed Fahad Sultan</b>, Botond Antal, et al. <a href="https://www.pnas.org/content/117/11/6170">Diet modulates brain network stability, a biomarker for brain aging, in young adults</a>. <i>Proceedings of the National Academy of Sciences, (2020) 117(11), 6170-6177.</i>
-</li>
-<li>
-  Corey Weistuch, Lilianne Mujica-Parodi, Anar Amgalan, <b>Syed Fahad Sultan</b>, Ken A Dill. <a href="https://www.cell.com/biophysj/pdf/S0006-3495(19)32572-X.pdf">Ketone Diets Can Reverse Some Brain Activities that are Lost in Aging</a>. <i>Biophysical Journal 118 (3), 288a.</i>
-</li>
-<li>
-  Haochen Chen, <b>Syed Fahad Sultan</b>, Yingtao Tian, Steven Skiena <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357879">Fast and Accurate Network Embeddings via Very Sparse Random Projection<a>, <i>Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019</i>
-</li>
-<li>
-  <b>Syed Fahad Sultan</b>, Hicham G. Elmongui, Sohaib Ahmad Khan, <a href="https://dl.acm.org/doi/10.1145/3110025.3110123">You Shall Know a Place by the Conversations It Seeds</a>. In proceedings of <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017, Sydney, Australia</i>
-</li>
-<li>
-  <b>Syed Fahad Sultan</b>, Hamza Humayun, Umar Nadeem, Zubair Bhatti, Sohaib Khan. <a href="http://dl.acm.org/citation.cfm?id=2737892&amp;dl=ACM&amp;coll=DL&amp;CFID=866275015&amp;CFTOKEN=33096949">Mobile Phone Price as Proxy for Socio-Economic Indicators</a>, <i>Seventh International Conference on Information and Communication Technologies and Development (ICTD '15) Singapore</i>
-</li>
+  <li><a href="https://moultriedanger.github.io">Moultrie Dangerfield</a>, <i>Force-Directed Edge Bundling for Dynamic Network Visualization</i>, Summer Research Fellow 2023</li>
+  <li><a href="https://jmasontaylor.github.io">Mason Taylor</a>, <i>Spatiotemporal analysis of Longitudinal Completions Data in Computer Science</i>, Summer Research Fellow 2023</li>
 </ul>
-<!-- <div style="font-size:25; font-weight:bold"><font color="#202A44">Industry Experience</font></strong></div> -->
-<h2>Industry Experience</h2>
+
+<h2 id="pubs" style="margin-top: 1em;">Selected Publications <a href="">^</a></h2>
+For full list of publications, please see my <a href="https://scholar.google.com/citations?user=PVlz30EAAAAJ&hl=en&oi=ao">Google Scholar</a> page.
+  <h3 style="margin-top: 1em;">&nbsp;&nbsp;&nbsp;Representation Learning</h3>
+  <ul>
+    <li>
+      <b>Syed Fahad Sultan</b>. <a href="https://www.proquest.com/openview/e83c4d6d4e96c08b5b1eca5ff60b448a/1?pq-origsite=gscholar&cbl=18750&diss=y">Predictive Models and Representations for Neuroimaging and Genetic Data</a>. <i> Dissertation,  State University of New York at Stony Brook, 2022.</i>
+    </li>    
+    <li>
+      <b>Syed Fahad Sultan</b>, Xingzhi Guo, Steven Skiena. <a href="https://dl.acm.org/doi/10.1145/3535508.3545507">Low-dimensional genotype embeddings for predictive models</a>. <i>Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics 2022.</i>
+    </li>    
+    <li>
+      Haochen Chen, <b>Syed Fahad Sultan</b>, Yingtao Tian, Steven Skiena <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357879">Fast and Accurate Network Embeddings via Very Sparse Random Projection<a>, <i>Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019</i>
+    </li>
+
+  </ul>
+  <h3 style="margin-top: 1em;">&nbsp;&nbsp;&nbsp;Computational Neuroscience</h3>
+  <ul>
+    <li>
+      <b>Syed Fahad Sultan</b>, Steve Skiena, Lilianne Mujica-Parodi. <a href="https://assets.researchsquare.com/files/rs-1413254/v2_covered.pdf?c=1667833953">Quantifying Dysregulation of fMRI-Derived Control Circuits for Computational Psychiatry</a> <i> bioRxiv</i>, 2022.11. 10.21203
+    </li>
+  <li>
+    Botond Antal, Liam P McMahon, <b>Syed Fahad Sultan</b> et al. <a href="https://dl.acm.org/doi/10.1145/3535508.3545507">Type 2 diabetes mellitus accelerates brain aging and cognitive decline: Complementary findings from UK Biobank and meta-analyses</a>. <i>Elife (2022) 11: e73138.</i>
+  </li>
+  <li>
+    Lilianne Mujica-Parodi, Anar Amgalan, <b>Syed Fahad Sultan</b>, Botond Antal, et al. <a href="https://www.pnas.org/content/117/11/6170">Diet modulates brain network stability, a biomarker for brain aging, in young adults</a>. <i>Proceedings of the National Academy of Sciences, (2020) 117(11), 6170-6177.</i>
+  </li>
+  <li>
+    Corey Weistuch, Lilianne Mujica-Parodi, Anar Amgalan, <b>Syed Fahad Sultan</b>, Ken A Dill. <a href="https://www.cell.com/biophysj/pdf/S0006-3495(19)32572-X.pdf">Ketone Diets Can Reverse Some Brain Activities that are Lost in Aging</a>. <i>Biophysical Journal 118 (3), 288a.</i>
+  </li>
+  </ul>
+  <h3 style="margin-top: 1em;">&nbsp;&nbsp;&nbsp;Computational Social Science</h3>
+  <ul>
+    <li>
+      <b>Syed Fahad Sultan</b>, Chris Alvin, Rebecca Drucker. <a href="">The Shrinking Slice of Women and Black Students in a Growing Computer Science Pie: A Preliminary Spatiotemporal Analysis of Longitudinal Completions Data</a>, <i>The Journal of Computing Sciences in Colleges</i>, 2023, 39(5).
+    </li>
+    <li>
+      <b>Syed Fahad Sultan</b>, Hicham G. Elmongui, Sohaib Ahmad Khan, <a href="https://dl.acm.org/doi/10.1145/3110025.3110123">You Shall Know a Place by the Conversations It Seeds</a>. In proceedings of <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017, Sydney, Australia</i>
+    </li>
+    <li>
+      <b>Syed Fahad Sultan</b>, Hamza Humayun, Umar Nadeem, Zubair Bhatti, Sohaib Khan. <a href="http://dl.acm.org/citation.cfm?id=2737892&amp;dl=ACM&amp;coll=DL&amp;CFID=866275015&amp;CFTOKEN=33096949">Mobile Phone Price as Proxy for Socio-Economic Indicators</a>, <i>Seventh International Conference on Information and Communication Technologies and Development (ICTD '15) Singapore</i>
+    </li>
+  </ul>
+
+<ul>
+
+
+
+
+</ul>
+
+
+
+
+<!-- <h2>Industry Experience</h2>
 <ul>
  <li>
 <b><a href="https://neo4j.com/">Neo4j</a>, Artificial Intelligence/Machine Learning Intern</b><br/>
@@ -277,24 +340,15 @@ Lahore, Pakistan (Jun 2013 - Aug 2015)<br/>
 Lahore, Pakistan (Jun 2011 - May 2013)<br/>
 <i>Lead a team of developers responsible for designing and developing the social casual game <a href="http://venturebeat.com/2011/03/08/gameviews-tap-fish-tops-10m-downloads-in-a-year-on-the-app-store/">TapFish</a>. At its peak it had over 500,000 daily active users and retained the top spot at 'Top Grossing Games' on Google Play for over 2 weeks.</i>
  </li>
-</ul>
-<!-- <div style="font-size:20; font-weight:bold"><font color="RoyalBlue">Education</font></strong></div>
-<ul>
-<li>BSc, Computer Science, National University of Computer and Emerging Sciences 
-  (FAST-NUCES), Lahore.</li>
-</ul>
- -->
-<!-- <div style="font-size:25; font-weight:bold"><font color="#202A44">Miscellaneous</font></strong></div> -->
-<h2>Miscellaneous</h2>
+</ul> -->
+
+</div>
+<h2 id="misc">Miscellaneous <a href="">^</a></h2>
 <ul>
 <li> I dabbled in data journalism and got to do the two data journalism stories for Dawn.com: <a href="http://www.dawn.com/news/1146800">[1]</a> and <a href="http://www.dawn.com/news/1163372">[2]</a>. 
 <li>I also helped organize and gave talks at the <a href="http://karachi.dbootcamp.org/">Karachi Data Bootcamp</a> arranged by Knight Foundation and ICFJ and <a href="http://codeforpakistan.org/programs/civic-hackathons/lahore-civic-hackathon/">Lahore Civic Hackathon</a> by Code for Pakistan.
 <li>Right out of college, I joined a mobile game development startup and helped make TapFish, <a href="http://www.cc.com/video-clips/5acu1n/the-daily-show-with-jon-stewart-tap-fish-dealer">here</a> is a fun (and brutal :)) video that Jon Stewart's Daily Show did on the game.
 </ul>
-<br><br>
-
-</div>
-
 
 <!-- 
       <div class="row" align="center" >
