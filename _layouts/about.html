@@ -5,13 +5,6 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
-            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-        </header>
-
-        <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
@@ -36,6 +29,16 @@ layout: default
             {%- endif %}
           </div>
           {%- endif %}
+          <h1 class="post-title">
+            {% if site.title == "blank" -%}{{ site.first_name }} <span class="font-weight-bold">{{ site.middle_name }}</span> {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+            <br/>
+            سید فہد سلطان
+            <br/>
+          </h1>
+          <p class="desc">{{ page.subtitle }}</p>
+        </header>
+
+        <article>
 
           <div class="clearfix">
             {{ content }}
@@ -49,13 +52,13 @@ layout: default
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
+            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">currently teaching</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">current research</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
