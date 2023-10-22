@@ -5,10 +5,12 @@ on:
     branches:
       - master
       - main
+      - new_website
   pull_request:
     branches:
       - master
       - main
+      - new_website
   workflow_dispatch:
 
 permissions:
