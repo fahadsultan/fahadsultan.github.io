@@ -36,6 +36,8 @@ During my PhD, Fahad worked at the intersection of computational neuroscience, b
 
 My teaching assistant is  **Mister Cat**. 
 
+<!-- 35:20:40 -->
+
 <center>
 <img width="30%" src="https://fahadsultan.com/datascience_ml/_images/mister.jpeg" >
 </center>

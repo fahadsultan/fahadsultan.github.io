@@ -31,4 +31,3 @@ I received my PhD 🎓 from State University of New York 🗽 at Stony Brook adv
 
 My research interests lie at the intersection of data science 📊, machine learning🤖, computational neuroscience 🧠 and computational social science ⚖️. 
 
-For a longer biography, please see my Furman faculty page.
