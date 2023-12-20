@@ -7,9 +7,80 @@ nav: false
 nav_order: 3
 ---
 
+[https://neal.fun](https://neal.fun)
+
 1. [Periodic Table of Elements.csv](https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee)
 
 2. [Gitbook](https://www.gitbook.com/)
+
+## Courses 
+
+* [Missing Semester](https://missing.csail.mit.edu)
+
+* [Social and Economic Networks (Bowdoin)](https://tildesites.bowdoin.edu/~mirfan/DCS-2350.html)
+
+* [Principles of Programming Language (Bowdoin)](https://tildesites.bowdoin.edu/~mirfan/CSCI-2320.html)
+
+## Education / Events
+
+* [Github Education](https://mobile.twitter.com/GitHubEducation)
+
+* [Mozilla Festival](https://www.mozillafestival.org/en/)
+
+* [Arduino Education](https://www.arduino.cc/education/university)
+
+* [NASA Robotics Competition](https://robotics.nasa.gov/events/competitions.php)
+
+* [International Aerial Competition](https://www.competitionsciences.org/competitions/international-aerial-robotics-competition/)
+
+* [Google Summer of Code](https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html)
+
+
+## Data
+
+* [Food Deserts](https://www.npr.org/sections/thesalt/2013/03/13/174112591/how-to-find-a-food-desert-near-you)
+
+* [Bureau of Labor Statistics](https://www.bls.gov/news.release/cpi.nr0.htm)
+
+* [Our World in Data](https://ourworldindata.org/agricultural-production)
+
+* [Opportunity Insights](https://opportunityinsights.org/data/)
+
+* [World Integrated Trade Solution](http://wits.worldbank.org/visualization/country-analysis-visualization.html)
+
+* [Education D3 Visualization](https://observablehq.com/@bmschmidt/duckdb-degrees)
+
+* **Flights Data**
+
+	* [Kaggle Flights](https://www.kaggle.com/datasets/open-flights/flight-route-database)
+
+	* [Air Routes Github](https://github.com/krlawrence/graph/blob/master/sample-data/air-routes-latest-nodes.csv)
+
+	* [Flights Github](https://github.com/ismayc/pnwflights14/blob/master/data/flights.csv)
+
+	* [Open Flights](https://openflights.org/data.html)
+
+	* [Bureau of Transportation Statistics](https://www.bts.dot.gov/airline-data-downloads)
+
+## Books 
+
+* [Noam Nisan books](https://www.cs.huji.ac.il/~noam/books/)
+
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+
+* [Probabilistic Machine Learning](https://mitpress.mit.edu/9780262046824/probabilistic-machine-learning/)
+
+* [Handbook to Digital Humanities](https://www.bloomsbury.com/us/bloomsbury-handbook-to-the-digital-humanities-9781350232129/)
+
+* [Handbook to Digital Humanities 2](https://www.amazon.com/Bloomsbury-Handbook-Digital-Humanities-Handbooks/dp/1350232114/ref=sr_1_1?keywords=The+Bloomsbury+Handbook+to+the+Digital+Humanities&qid=1678737321&sr=8-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0)
+
+* [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/whats-new.html)
+
+* [Source Academy](https://sourceacademy.org/sicpjs/1)
+
+* [](https://www.amazon.com/Developing-32-Bit-Operating-System-Cd-Rom/dp/0672306557)
+
+* [Composing Programs](https://composingprograms.com/pages/24-mutable-data.html)
 
 ## CSC-272 
 
@@ -94,63 +165,57 @@ https://www.thunderchunky.co.uk/wp-content/uploads/2007/05/eboy-peecol.gif
 
 42. [Google Summer of Code](https://summerofcode.withgoogle.com)
 
-https://grouplens.org/datasets/movielens/latest/
+43. [Movie Lens](https://grouplens.org/datasets/movielens/latest/)
 
-https://timeline.com/hans-eijkelboom-photo-fashion-75ca9911518c
+44. **Hans Eijkelboom**
 
-https://www.phaidon.com/store/photography/people-of-the-twenty-first-century-9780714867151/
+	https://timeline.com/hans-eijkelboom-photo-fashion-75ca9911518c
 
-https://www.amazon.com/Hans-Eijkelboom-People-Twenty-First-Century/dp/0714867152#customerReviews
+	https://www.phaidon.com/store/photography/people-of-the-twenty-first-century-9780714867151/
 
-https://addc401fall2016.files.wordpress.com/2016/08/rushkoff-program-or-be-programmed.pdf
+	https://www.amazon.com/Hans-Eijkelboom-People-Twenty-First-Century/dp/0714867152#customerReviews
 
-https://www.google.com/search?q=collaborative+filtering&client=safari&rls=en&sxsrf=ALiCzsb1CYkyFkqKstQfLl05Fy74co6rmg:1669906476149&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWlcay1tj7AhX2kWoFHcQUBBsQ_AUoAXoECAMQAw&biw=1512&bih=803&dpr=2#imgrc=GVXBvOA8qWuQvM
+	https://www.technologyreview.com/2019/02/28/136854/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
 
-https://www.technologyreview.com/2019/02/28/136854/the-hipster-effect-why-anti-conformists-always-end-up-looking-the-same/
+45.  https://addc401fall2016.files.wordpress.com/2016/08/rushkoff-program-or-be-programmed.pdf
 
-https://arstechnica.com/tech-policy/2018/05/report-software-bug-led-to-death-in-ubers-self-driving-crash/
+46. Software Bugs 
 
-https://www.geeksforgeeks.org/10-famous-bugs-in-the-computer-science-world/
+* https://arstechnica.com/tech-policy/2018/05/report-software-bug-led-to-death-in-ubers-self-driving-crash/
 
-https://en.wikipedia.org/wiki/Therac-25
+* https://www.geeksforgeeks.org/10-famous-bugs-in-the-computer-science-world/
 
-https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
+* https://en.wikipedia.org/wiki/Therac-25
 
-https://sites.google.com/site/olinds19/lectures/lecture-03
+* https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/
 
-https://www.google.com/search?q=hangman+ascii+art&client=safari&rls=en&sxsrf=ALiCzsb-_h6HcpZnKx5-qd9FAqR0ckHJwQ:1667870938097&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiBmq-2t537AhXdkmoFHXiYAYIQ_AUoAXoECAIQAw&biw=1512&bih=803&dpr=2
+47. [NeuroDesk](https://github.com/NeuroDesk)
 
-https://docs.google.com/spreadsheets/d/1YYkCo8Hcwye9NBsyuN0e837o7irdJ5GTxe9-8IGU-t4/edit#gid=0
+46. [Neuroscience Course - Bates](https://mrgreene09.github.io/compNeuro2022/#Week_13:_November_28_-_December_2)
 
-https://auth.mycase.com/login_sessions/new?response_type=code&client_id=tCEM8hNY7GaC2c8P&redirect_uri=https%3A%2F%2Fimmigrationadvocates.mycase.com%2Fuser_sessions%2Fo_auth_callback&auto_logout=true
+48. [Histomap](https://www.etsy.com/listing/558764417/the-histomap-history-poster-art-four?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=historilicious&ref=sr_gallery-1-2&pro=1&sts=1&variation0=2765732064&variation1=1087820946)
 
-https://github.com/NeuroDesk
+49. Computational Neuroscience 
 
-https://sonny.furman.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+	https://www.amazon.com/s?k=Computational+Neuroscience+greene&crid=2A0HWSUM3E5LI&sprefix=computational+neuroscience+greene%2Caps%2C121&ref=nb_sb_noss
 
-https://www.etsy.com/listing/558764417/the-histomap-history-poster-art-four?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=historilicious&ref=sr_gallery-1-2&pro=1&sts=1&variation0=2765732064&variation1=1087820946
+	https://n.neurology.org/content/92/15_Supplement/P2.9-036
 
-https://mrgreene09.github.io/compNeuro2022/#Week_13:_November_28_-_December_2
+	https://scholar.google.com/citations?hl=en&user=ZdC-f3wAAAAJ&view_op=list_works&sortby=pubdate
 
-https://www.amazon.com/s?k=Computational+Neuroscience+greene&crid=2A0HWSUM3E5LI&sprefix=computational+neuroscience+greene%2Caps%2C121&ref=nb_sb_noss
+	https://mrgreene09.github.io/computational-neuroscience-textbook/index.html#this-book-is-free-as-in-pizza
 
-https://n.neurology.org/content/92/15_Supplement/P2.9-036
+	https://www.bates.edu/neuroscience/academics/neuroscience-courses/
 
-https://scholar.google.com/citations?hl=en&user=ZdC-f3wAAAAJ&view_op=list_works&sortby=pubdate
+	https://github.com/search?q=mrgreene09
 
-https://mrgreene09.github.io/computational-neuroscience-textbook/index.html#this-book-is-free-as-in-pizza
+	https://www.furman.edu/academics/neuroscience/program-overview/neuroscience/
 
-https://www.bates.edu/neuroscience/academics/neuroscience-courses/
+	https://catalog.furman.edu/preview_entity.php?catoid=13&ent_oid=480&returnto=573
 
-https://github.com/search?q=mrgreene09
+	https://github.com/mrgreene09/BatesComputationalNeuroscience_2020/tree/master/classNotebooks
 
-https://www.furman.edu/academics/neuroscience/program-overview/neuroscience/
 
-https://catalog.furman.edu/preview_entity.php?catoid=13&ent_oid=480&returnto=573
-
-https://github.com/mrgreene09/BatesComputationalNeuroscience_2020/tree/master/classNotebooks
-
-https://mychart.prismahealth.org/MyChart/Authentication/Login?action=logout
 
 https://www.bio.tamu.edu/wp-content/uploads/2020/11/google_forms_for_polls.pdf
 
@@ -160,9 +225,7 @@ https://docs.google.com/forms/u/0/?tgif=d
 
 https://docs.google.com/forms/d/e/1FAIpQLSdQ0ETdxLGUqhhpBMQp2JeALSeo7B4XMcw_6EgtEQNebAPCaQ/viewform
 
-Papers with Code 
-
-	https://paperswithcode.com
+**[Papers with Code](https://paperswithcode.com)**
 
 	https://mobile.twitter.com/paperswithcode
 
@@ -174,29 +237,15 @@ https://github.com/cube-js/awesome-tools
 
 https://dblp.org/db/conf/visualization/visualization2020.html
 
-https://www.wired.com/gallery/best-laptop-stands/
-
-https://www.amazon.com/VIVO-Ultra-Slim-Adjustable-Converter-DESK-V001J/dp/B09TV88ZT9/ref=sr_1_5?crid=1LEUY0CPF5TUJ&keywords=Fully%2BCora%2BStanding%2BDesk%2BConverter&qid=1682536080&sprefix=fully%2Bcora%2Bstanding%2Bdesk%2Bconverter%2Caps%2C85&sr=8-5&th=1
-
-https://docs.google.com/spreadsheets/d/111VO2qxHTFF7wfo-ES1tkGpcZyFy5oFsUReMKCEPCC8/edit?skip_itp2_check=true&pli=1#gid=718816172
-
 https://www.vecteezy.com/vector-art/5005080-web-layout-programming-language
-
-https://furman.app.box.com/file/666513297523
 
 https://markdowntohtml.com
 
-https://www.amazon.com/Outlet-Holder-Space-Saving-Accessories-Assistant/dp/B07B8B1ZSF?th=1
 
-https://neal.fun
 
 https://www.amazon.com/dp/013409266X/ref=redir_mobile_desktop?_encoding=UTF8&psc=1&ref_=ox_sc_act_image_1&smid=A2L77EE7U53NWQ
 
-https://www.amazon.com/Developing-32-Bit-Operating-System-Cd-Rom/dp/0672306557
 
-https://composingprograms.com/pages/24-mutable-data.html
-
-https://mobile.twitter.com/GitHubEducation
 
 https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks
 
@@ -210,67 +259,30 @@ https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5KXpoXsAAA
 
 https://www.google.com/search?q=When+McKinsey+Comes+to+Town&rlz=1CDGOYI_enUS976US976&oq=When+McKinsey+Comes+to+Town&aqs=chrome..69i57.3201j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
 
-https://static01.nyt.com/images/2022/09/13/books/13aviv-cover/13aviv-cover-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-
-https://observablehq.com/@bmschmidt/duckdb-degrees
 
 https://store.wolfram.com/arrive.cgi?URI=/view/misc/#nks-poster
 
-https://www.mozillafestival.org/en/
-
-https://www.google.com/search?q=The+Digital+Republic%2C%E2%80%9D+Jamie+Susskind&rlz=1CDGOYI_enUS976US976&oq=The+Digital+Republic%2C%E2%80%9D+Jamie+Susskind&aqs=chrome..69i57.3366j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
-
 https://www.google.com/search?q=textbook+where+you+create+your+own+operating+system&rlz=1CDGOYI_enUS976US976&hl=en-US&sxsrf=ALiCzsYtfsW8EdMrXtfA-MB7_M7KJgtdhQ%3A1659483227714&ei=W7TpYpmPK_-iqtsP6-6tgA4&oq=textbook+where+you+create+your+own+operati&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIFCCEQoAEyBQghEKABMgUIIRCgATIFCCEQoAEyCAghEB4QFhAdMggIIRAeEBYQHTIICCEQHhAWEB06BwgAEEcQsAM6BQghEKsCSgQIQRgAUIsRWIQ1YMdLaAFwAngAgAHpAYgBiBKSAQYxLjE1LjGYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp
 
-https://probml.github.io/pml-book/book2.html
-
-https://www.bls.gov/news.release/cpi.nr0.htm
-
-https://ourworldindata.org/agricultural-production
-
-https://opportunityinsights.org/data/
-
-https://www.npr.org/sections/thesalt/2013/03/13/174112591/how-to-find-a-food-desert-near-you
-
-http://wits.worldbank.org/visualization/country-analysis-visualization.html
 
 https://mark-kramer.github.io/Case-Studies-Python/08.html#onramp
 
-https://fivebooks.com/best-books/inflation-federica-romei/
-
-https://missing.csail.mit.edu
-
-https://www.arduino.cc/education/university
 
 https://dl.acm.org/doi/fullHtml/10.1145/3565516.3565523
 
-https://www.bloomsbury.com/us/bloomsbury-handbook-to-the-digital-humanities-9781350232129/
-
-https://www.amazon.com/Bloomsbury-Handbook-Digital-Humanities-Handbooks/dp/1350232114/ref=sr_1_1?keywords=The+Bloomsbury+Handbook+to+the+Digital+Humanities&qid=1678737321&sr=8-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0
 
 https://necromuralist.github.io/Neurotic-Networking/posts/nlp/parts-of-speech-tagging-hidden-markov-model/#org0fb6529
 
-https://www.crackingthecodinginterview.com/whats-new.html
 	
 https://mitpress.mit.edu/9780262546379/the-little-learner/
 
-https://www.kaggle.com/datasets/open-flights/flight-route-database
-
-https://github.com/krlawrence/graph/blob/master/sample-data/air-routes-latest-nodes.csv
-
-https://github.com/ismayc/pnwflights14/blob/master/data/flights.csv
-
-https://openflights.org/data.html
-
-https://www.bts.dot.gov/airline-data-downloads
 
 https://www.uncommongoods.com/checkout/cart
 
-https://www.cs.huji.ac.il/~noam/books/
 
-https://mitpress.mit.edu/9780262046824/probabilistic-machine-learning/
 
-https://sourceacademy.org/sicpjs/1
+
+
 
 https://www.cambridge.org/core/browse-subjects/computer-science/listing?sort=canonical.date%3Adesc&aggs%5BproductTypes%5D%5Bfilters%5D=BOOK%2CELEMENT&aggs%5BproductDate%5D%5Bfilters%5D=Last%2012%20months&pageNum=2&searchWithinIds=A57E10708F64FB69CE78C81A5C2A6555
 
@@ -278,16 +290,8 @@ https://www.cambridge.org/us/academic/subjects/computer-science
 
 https://mercuryconsortium.org/summary
 
-https://robotics.nasa.gov/events/competitions.php
-
-https://www.competitionsciences.org/competitions/international-aerial-robotics-competition/
-
-https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html
 
 https://www.google.com/search?q=github+bottle&tbm=isch&ved=2ahUKEwjgt82Jk_L7AhVPKFMKHWBjCo0Q2-cCegQIABAA&oq=github+bottle&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYOgQIIxAnOgUIABCABDoICAAQgAQQsQM6BAgAEEM6BwgAELEDEEM6BAgAEB5QtgdYsh1grB5oAnAAeACAAaUBiAGQCZIBBDEzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=PhuWY-CgEs_QzALgxqnoCA&bih=803&biw=1512&client=safari#imgrc=vLKpUkIga8s9CM
 
-https://tildesites.bowdoin.edu/~mirfan/DCS-2350.html
-
-https://tildesites.bowdoin.edu/~mirfan/CSCI-2320.html
 
 https://link.springer.com/content/pdf/10.1007/978-1-84800-070-4.pdf?pdf=button

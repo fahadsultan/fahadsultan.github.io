@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Computer Science Education
+description: Improving Participation and Success of traditionally Underrepresented groups in Computer Science, at the collegiate level.
+img: assets/img/csed.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
