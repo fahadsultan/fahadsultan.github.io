@@ -8,6 +8,21 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
+## **[Link to Demo](https://fahadsultan.com/Education/)**
+
+<br/>
+<br/>
+
+## **[Read Paper 1](https://www.ccsc.org/publications/journals/SE2023.pdf#page=109)**
+
+<br/>
+<br/>
+
+## **[Read Paper 2](https://arxiv.org/pdf/2311.14891.pdf)**
+
+<br/>
+<br/>
+<br/>
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
