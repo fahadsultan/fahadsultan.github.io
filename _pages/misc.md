@@ -17,7 +17,7 @@ Here are some links that I think are interesting:
 * [Hacker News (best)](https://news.ycombinator.com/best)
 * [Techmeme](https://www.techmeme.com/)
 * [Github Explore](https://github.com/explore)
-* [Fireship](https://www.youtube.com/@Fireship/videos)
+* [Fireship](https://www.youtube.com/@Fireship/videos) 
 
 ## Random 
 
