@@ -52,13 +52,16 @@ layout: default
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">currently teaching</a></h2>
+            <h3><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Currently Teaching</a></h3>
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <br/>
+          <!-- <br/> -->
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">current research</a></h2>
+            <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Active Research Projects</a></h3>
             {%- include selected_papers.html %}
           {%- endif %}
 

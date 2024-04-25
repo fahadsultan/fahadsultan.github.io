@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Projects
 permalink: /projects/
 description: Following is list of publications and active research projects
 nav: true
@@ -56,11 +56,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
-<br/>
-
-<h1>publications</h1>
-<div class="publications">
-{% bibliography -f {{ site.scholar.bibliography }} %}
-</div>
-

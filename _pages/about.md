@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: Assistant Professor, Computer Science, Furman University
 
@@ -23,11 +23,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! 👋🏾 Welcome to my corner of the internet 🌐. 
+Hi! 👋🏾 Welcome to my little corner of the internet 🌐. 
 
 I am an Assistant Professor in the [Computer Science 💻 Department](https://www.furman.edu/academics/computer-science/) at [Furman University](https://www.furman.edu) <b>🏫</b>.
 
-I received my PhD 🎓 from State University of New York 🗽 at Stony Brook advised by Dr. Steven Skiena and Dr. Lilianne Mujica Parodi.
+I received my PhD 🎓 from [Stony Brook University](https://www.stonybrook.edu/) in New York 🗽 advised by [Dr. Steven Skiena](https://en.wikipedia.org/wiki/Steven_Skiena) and [Dr. Lilianne Mujica Parodi](https://www.lcneuro.org/mujicaparodi).
 
-My research interests lie at the intersection of data science 📊, machine learning🤖, computational neuroscience 🧠 and computational social science ⚖️. 
+Fundamentally, I am interested in computer programming 🖥️, mathematics 🔢 and visualization 🎨 particularly as they relate to temporal 📈, spatial 🌎 and network 🕸️ data. 
+
+These interests manifest in my academic research as publications in the area of data science 📊, machine learning 🤖, computational neuroscience 🧠 and computational social science ⚖️. 
 
