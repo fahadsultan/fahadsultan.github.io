@@ -29,7 +29,5 @@ I am an Assistant Professor in the [Computer Science 💻 Department](https://ww
 
 I received my PhD 🎓 from [Stony Brook University](https://www.stonybrook.edu/) in New York 🗽 advised by [Dr. Steven Skiena](https://en.wikipedia.org/wiki/Steven_Skiena) and [Dr. Lilianne Mujica Parodi](https://www.lcneuro.org/mujicaparodi).
 
-Fundamentally, I am interested in computer programming 🖥️, mathematics 🔢 and visualization 🎨 particularly as they relate to temporal 📈, spatial 🌎 and network 🕸️ data. 
-
-These interests manifest in my academic research as publications in the area of data science 📊, machine learning 🤖, computational neuroscience 🧠 and computational social science ⚖️. 
+I am essentially interested in computer programming 🖥️, mathematics 🔢 and visualizations 🎨 particularly as they relate to temporal 📈, spatial 🌎 and network 🕸️ data. At the macro level, these interests manifest as research in the areas of data science 📊, machine learning 🤖, computational neuroscience 🧠 and computational social science ⚖️. 
 

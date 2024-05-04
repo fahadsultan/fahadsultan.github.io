@@ -4,14 +4,26 @@ permalink: /misc/
 title: Misc
 description: Random links and other stuff
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
-# Links 
+<img align="right" width="50%" src="https://i.ibb.co/wJGFKqB/badshahi-mosque.png">
+
+### About Me 
+
+I grew up in the beautiful city of [Lahore, Pakistan](https://en.wikipedia.org/wiki/Lahore) and briefly lived in [Mecca, Saudi Arabia](https://en.wikipedia.org/wiki/Mecca).
+
+These days I live in [Travelers Rest](https://en.wikipedia.org/wiki/Travelers_Rest,_South_Carolina) with my wife [Rebecca Drucker](https://www.furman.edu/people/rebecca-drucker) and [Mister Cat](https://photos.app.goo.gl/iBGGbkbxzDWi4ZMZ6) (bottom right).
+
+<!-- 
+for first 25 years of my life in [Lahore, Pakistan](https://en.wikipedia.org/wiki/Lahore). 
+I live in Travellers Rest with my wife [Rebecca Drucker](https://www.furman.edu/people/rebecca-drucker) and Mister Cat (right). -->
+
+<img align="right" width="25%" src="https://i.ibb.co/j6XJkn8/Screen-Shot-2024-05-03-at-12-54-31-PM.png">
 
 Here are some links that I think are interesting:
 
-## News 
+### News 
 
 * [Hacker News](https://news.ycombinator.com/)
 * [Hacker News (best)](https://news.ycombinator.com/best)
@@ -19,11 +31,15 @@ Here are some links that I think are interesting:
 * [Github Explore](https://github.com/explore)
 * [Fireship](https://www.youtube.com/@Fireship/videos) 
 
-## Random 
+### Random 
 
 * [Neal.fun](https://neal.fun/)
 * [Music for Programming](https://musicforprogramming.net/)
 * [Source Code in TV and Films](https://moviecode.tumblr.com/)
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [College Compendium](https://collegecompendium.com/)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [Algopop](https://algopop.tumblr.com/)
 
 
 <!-- Hi! My name is **Syed Fahad Sultan** (Native Urdu: سید فہد سلطان). The pronunciation, as per the International Phonetic Alphabet (IPA), is as follows sæjjɪd fah(aː)d solˈtˤɑːn. Most students call me “Dr. Sultan” (Pronounced: Sool-tahn 🔈).

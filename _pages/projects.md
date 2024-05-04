@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 description: Following is list of publications and active research projects
 nav: true
-nav_order: 2
-display_categories: [work]
+nav_order: 3
+display_categories: [research, student]
 horizontal: false
 ---
 
