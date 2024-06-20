@@ -40,6 +40,7 @@ Here are some links that I think are interesting:
 * [College Compendium](https://collegecompendium.com/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Algopop](https://algopop.tumblr.com/)
+* [Communication Empires](https://calculatingempires.net/?pos=21605.60%2C8719.37%2C12.7502)
 
 
 <!-- Hi! My name is **Syed Fahad Sultan** (Native Urdu: سید فہد سلطان). The pronunciation, as per the International Phonetic Alphabet (IPA), is as follows sæjjɪd fah(aː)d solˈtˤɑːn. Most students call me “Dr. Sultan” (Pronounced: Sool-tahn 🔈).
