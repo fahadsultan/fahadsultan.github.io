@@ -2,7 +2,7 @@
 layout: page
 title: Computer Science Education
 description: Improving Participation and Success of traditionally Underrepresented groups in Computer Science, at the collegiate level.
-img: assets/img/csed.png
+# img: assets/img/csed.png
 importance: 1
 category: research
 related_publications: einstein1956investigations, einstein1950meaning

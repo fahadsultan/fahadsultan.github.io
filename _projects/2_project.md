@@ -2,7 +2,7 @@
 layout: page
 title: Dynamic Network Visualization
 description: Visualizing Dynamic Networks towards Mechanistic Interpretability of Neural Networks, Artificial and Biological.
-img: assets/img/dynamic.png
+# img: assets/img/dynamic.png
 importance: 1
 category: research
 giscus_comments: true
