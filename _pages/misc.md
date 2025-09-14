@@ -7,19 +7,19 @@ nav: true
 nav_order: 4
 ---
 
-<img align="right" width="50%" src="https://i.ibb.co/wJGFKqB/badshahi-mosque.png">
+<!-- <img align="right" width="50%" src="https://i.ibb.co/wJGFKqB/badshahi-mosque.png"> -->
 
-### About Me 
+<!-- ### About Me  -->
 
-I grew up in the beautiful city of [Lahore, Pakistan](https://en.wikipedia.org/wiki/Lahore) and briefly lived in [Mecca, Saudi Arabia](https://en.wikipedia.org/wiki/Mecca).
+<!-- I grew up in the beautiful city of [Lahore, Pakistan](https://en.wikipedia.org/wiki/Lahore) and briefly lived in [Mecca, Saudi Arabia](https://en.wikipedia.org/wiki/Mecca). -->
 
-These days I live in [Travelers Rest](https://en.wikipedia.org/wiki/Travelers_Rest,_South_Carolina) with my wife [Rebecca Drucker](https://www.furman.edu/people/rebecca-drucker) and [Mister Cat](https://photos.app.goo.gl/iBGGbkbxzDWi4ZMZ6) (bottom right).
+<!-- These days I live in [Travelers Rest](https://en.wikipedia.org/wiki/Travelers_Rest,_South_Carolina) with my wife [Rebecca Drucker](https://www.furman.edu/people/rebecca-drucker) and [Mister Cat](https://photos.app.goo.gl/iBGGbkbxzDWi4ZMZ6) (bottom right). -->
 
 <!-- 
 for first 25 years of my life in [Lahore, Pakistan](https://en.wikipedia.org/wiki/Lahore). 
 I live in Travellers Rest with my wife [Rebecca Drucker](https://www.furman.edu/people/rebecca-drucker) and Mister Cat (right). -->
 
-<img align="right" width="25%" src="https://i.ibb.co/j6XJkn8/Screen-Shot-2024-05-03-at-12-54-31-PM.png">
+<!-- <img align="right" width="25%" src="https://i.ibb.co/j6XJkn8/Screen-Shot-2024-05-03-at-12-54-31-PM.png"> -->
 
 Here are some links that I think are interesting:
 
@@ -37,7 +37,7 @@ Here are some links that I think are interesting:
 * [Music for Programming](https://musicforprogramming.net/)
 * [Source Code in TV and Films](https://moviecode.tumblr.com/)
 * [Free Code Camp](https://www.freecodecamp.org/)
-* [College Compendium](https://collegecompendium.com/)
+* [College Compendium](https://collegecompendium.org/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Algopop](https://algopop.tumblr.com/)
 * [Communication Empires](https://calculatingempires.net/?pos=21605.60%2C8719.37%2C12.7502)
