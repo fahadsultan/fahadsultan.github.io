@@ -11,7 +11,7 @@ profile:
   more_info: >
       <p>fahad.sultan@furman.edu</p>
       <p>864.294.3219</p>
-      <p>200-D Riley Hall</p>
+      <p>200-H Riley Hall</p>
       <p>Computer Science Dept.</p>
       <p>3300 Poinsett Highway</p>
       <p>Greenville, SC 29613</p>
